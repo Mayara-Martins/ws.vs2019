@@ -18,7 +18,7 @@ namespace ConsoleApplication2
 
             Console.WriteLine("Produtos:");
             Console.WriteLine("{0} tem o valor de {1} reais", produto1, preco1);
-            Console.WriteLine("{0} tem o valor de {1:F2} reis  ", produto2, preco2);
+            Console.WriteLine("{0} tem o valor de {1:F2} reais  ", produto2, preco2);
             Console.WriteLine();
             Console.Write("Registro: " );
             Console.WriteLine("{0} anos de idade, codigo {1} e o genero: {2}", idade, codigo, genero);
