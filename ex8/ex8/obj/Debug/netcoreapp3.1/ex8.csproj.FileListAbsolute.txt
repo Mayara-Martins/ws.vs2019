@@ -1,0 +1,13 @@
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\bin\Debug\netcoreapp3.1\ex8.exe
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\bin\Debug\netcoreapp3.1\ex8.deps.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\bin\Debug\netcoreapp3.1\ex8.runtimeconfig.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\bin\Debug\netcoreapp3.1\ex8.runtimeconfig.dev.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\bin\Debug\netcoreapp3.1\ex8.dll
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\bin\Debug\netcoreapp3.1\ex8.pdb
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.AssemblyInfoInputs.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.AssemblyInfo.cs
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.csproj.CoreCompileInputs.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.dll
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.pdb
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex8\ex8\obj\Debug\netcoreapp3.1\ex8.genruntimeconfig.cache
