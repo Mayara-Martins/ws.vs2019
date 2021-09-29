@@ -1,0 +1,14 @@
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\bin\Debug\netcoreapp3.1\exc15.exe
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\bin\Debug\netcoreapp3.1\exc15.deps.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\bin\Debug\netcoreapp3.1\exc15.runtimeconfig.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\bin\Debug\netcoreapp3.1\exc15.runtimeconfig.dev.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\bin\Debug\netcoreapp3.1\exc15.dll
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\bin\Debug\netcoreapp3.1\exc15.pdb
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.csproj.AssemblyReference.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.AssemblyInfoInputs.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.AssemblyInfo.cs
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.csproj.CoreCompileInputs.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.dll
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.pdb
+C:\Users\Mayara Lima\Desktop\Nova pasta\exc15\exc15\obj\Debug\netcoreapp3.1\exc15.genruntimeconfig.cache
