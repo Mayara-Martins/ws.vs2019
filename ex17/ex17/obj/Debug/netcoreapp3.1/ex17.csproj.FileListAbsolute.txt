@@ -1,0 +1,14 @@
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.exe
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.deps.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.runtimeconfig.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.runtimeconfig.dev.json
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.dll
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\bin\Debug\netcoreapp3.1\ex17.pdb
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.csproj.AssemblyReference.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.AssemblyInfoInputs.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.AssemblyInfo.cs
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.csproj.CoreCompileInputs.cache
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.dll
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.pdb
+C:\Users\Mayara Lima\Desktop\Nova pasta\ex17\ex17\obj\Debug\netcoreapp3.1\ex17.genruntimeconfig.cache
